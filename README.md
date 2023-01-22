@@ -19,3 +19,11 @@ The steps are broadly:
 	Model Building
 	Model Evaluation
 	Making Predictions on the Test Set
+	
+Uploaded Documents Details:
+	Leads.csv -> Dataset of our case study
+	Leads Data Dictionary.xlsx -> Data dictionary of Leads data set
+	Lead_Scoring_Case_Study.ipynb file -> Python file with all codings and model buildings
+	Assignment Subjective Questions with Answers.pdf -> Subjective Q&A
+	Lead_Scoring_Presentation.pdf -> Presentation on overall case study
+	Lead_Scoring_Summary.pdf -> Summary
