@@ -21,6 +21,7 @@ The steps are broadly:
 	Making Predictions on the Test Set
 	
 Uploaded Documents Details:
+
 	Leads.csv -> Dataset of our case study
 	Leads Data Dictionary.xlsx -> Data dictionary of Leads data set
 	Lead_Scoring_Case_Study.ipynb file -> Python file with all codings and model buildings
